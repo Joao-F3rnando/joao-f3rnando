@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Olá, eu sou João Fernando 👋
 
@@ -10,6 +10,12 @@ Software developer experienced in building, maintaining, and improving web appli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-f3rnando/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.goncalves0108@gmail.com)
+
+</div>
+
+<div align="center">
+ 
+[![wakatime](https://wakatime.com/badge/user/018cf98b-c690-482e-980a-c2189e0d7dfd.svg)](https://wakatime.com/@018cf98b-c690-482e-980a-c2189e0d7dfd)
 
 </div>
 
