@@ -1,12 +1,14 @@
  <div align="center">
 
 # Olá, eu sou João Fernando 👋
+
 ### Desenvolvedor Full Stack | Full Stack Developer
 
-Desenvolvedor focado no desenvolvimento e na evolução de aplicações web.  
-Developer focused on building and improving web applications.
+Desenvolvedor de software com experiência no desenvolvimento, manutenção e evolução de aplicações web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-f3rnando/)
+Software developer experienced in building, maintaining, and improving web applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-f3rnando/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.goncalves0108@gmail.com)
 
 </div>
@@ -15,19 +17,25 @@ Developer focused on building and improving web applications.
 
 ## 🇧🇷 Sobre mim
 
-- 💻 Trabalho com desenvolvimento e manutenção de aplicações web.
-- 🧩 Experiência com frontend, backend, integração de APIs e bancos de dados.
-- 🛠️ Tecnologias: Vue.js 3, Node.js, PostgreSQL, Docker, Tailwind CSS e Strapi.
+Sou desenvolvedor Full Stack, com experiência no desenvolvimento e na manutenção de aplicações web, atuando tanto no frontend quanto no backend.
+
+- 💻 Desenvolvimento e evolução de aplicações web utilizando Vue.js 3 e Node.js.
+- 🔗 Integração e consumo de APIs para comunicação entre sistemas.
+- 🗄️ Trabalho com bancos de dados relacionais, incluindo PostgreSQL.
+- 🛠️ Experiência com ferramentas e tecnologias como Docker, Tailwind CSS e Strapi.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela FECAP.
-- 📚 Busco evoluir continuamente como desenvolvedor e criar soluções úteis e bem estruturadas.
+- 🤝 Valorizo código organizado, colaboração em equipe e aprendizado contínuo.
 
 ## 🇺🇸 About me
 
-- 💻 I work with the development and maintenance of web applications.
-- 🧩 Experience with frontend, backend, API integration, and databases.
-- 🛠️ Technologies: Vue.js 3, Node.js, PostgreSQL, Docker, Tailwind CSS, and Strapi.
+I'm a Full Stack Developer with experience in building and maintaining web applications, working across both frontend and backend development.
+
+- 💻 Building and improving web applications using Vue.js 3 and Node.js.
+- 🔗 Integrating and consuming APIs to enable communication between systems.
+- 🗄️ Working with relational databases, including PostgreSQL.
+- 🛠️ Experience with tools and technologies such as Docker, Tailwind CSS, and Strapi.
 - 🎓 Degree in Systems Analysis and Development from FECAP.
-- 📚 I’m continuously improving my development skills and building useful, well-structured solutions.
+- 🤝 I value clean code, teamwork, and continuous learning.
 
 ---
 
@@ -46,11 +54,22 @@ Developer focused on building and improving web applications.
 
 ---
 
+## ⏱️ WakaTime | Atividade de Programação
+
+🇧🇷 Acompanhe meu tempo de programação e as linguagens utilizadas com base nos registros do WakaTime.
+
+🇺🇸 Explore my coding activity and most-used programming languages based on my WakaTime records.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-f3rnando&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas nos repositórios públicos" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-f3rnando&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens identificadas nos repositórios públicos do GitHub" />
 
 </div>
 
@@ -58,12 +77,12 @@ Developer focused on building and improving web applications.
 
 ## 📫 Contato | Get in touch
 
-- **Email:** joao.goncalves0108@gmail.com
-- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/joao-f3rnando/)
+- **Email:** [joao.goncalves0108@gmail.com](mailto:joao.goncalves0108@gmail.com)
+- **LinkedIn:** [linkedin.com/in/joao-f3rnando](https://www.linkedin.com/in/joao-f3rnando/)
 - **GitHub:** [@joao-f3rnando](https://github.com/joao-f3rnando)
 
 <div align="center">
 
-*Obrigado pela visita! | Thanks for stopping by!*
+*Obrigado pela visita! Vamos nos conectar. | Thanks for stopping by! Let's connect.*
 
 </div>
