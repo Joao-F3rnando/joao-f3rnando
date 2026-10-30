@@ -91,7 +91,8 @@ Other        5 mins                ░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-f3rnando&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens identificadas nos repositórios públicos do GitHub" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joao-f3rnando&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens identificadas nos repositórios públicos do GitHub"
+/>
 
 </div>
 
