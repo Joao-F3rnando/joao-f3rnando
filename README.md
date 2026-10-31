@@ -69,18 +69,18 @@ I'm a Full Stack Developer with experience in building and maintaining web appli
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Total Time: 18 hrs 6 mins
+Total Time: 17 hrs 17 mins
 
-TypeScript   8 hrs 28 mins         ███████████▓░░░░░░░░░░░░░   46.51 %
-Vue          5 hrs 50 mins         ████████░░░░░░░░░░░░░░░░░   32.07 %
-JavaScript   1 hr 55 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Bash         37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-YAML         34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Markdown     25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-JSON         15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other        5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Vue          6 hrs 31 mins         █████████▒░░░░░░░░░░░░░░░   37.69 %
+TypeScript   6 hrs 1 min           ████████▓░░░░░░░░░░░░░░░░   34.86 %
+JavaScript   2 hrs 33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Markdown     42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Bash         38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML         35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+JSON         15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
